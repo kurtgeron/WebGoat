@@ -589,7 +589,7 @@
                 <include>.gitignore</include>
               </includes>
               <trimTrailingWhitespace></trimTrailingWhitespace>
-+              <endWithNewline></endWithNewline>
++             <endWithNewline></endWithNewline>
               <indent>
                 <tabs>true</tabs>
                 <spacesPerTab>4</spacesPerTab>
